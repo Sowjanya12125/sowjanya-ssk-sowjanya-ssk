@@ -9,7 +9,7 @@ I build production-grade systems across ML, data engineering, and security analy
 <h3 style="color:black;">Currently Working On</h3>
 
 - Jarvis — a Tony Stark-style AI personal assistant (FastAPI + React)
-- Placement prep for UBS & Lloyds Technology Programmes
+- Placement prep for comapanies
 - Sharpening DSA fundamentals (patterns, complexity, problem-solving)
 
 <h3 style="color:black;">Tech Stack</h3>
